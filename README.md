@@ -1,4 +1,5 @@
 School Management Application
+
 This is a school management application that allows for the creation and management of schools, courses, batches, and students. It provides a flexible and secure platform for educational organizations with different user types and their respective capabilities.
 
 Features
